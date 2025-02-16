@@ -1,0 +1,10 @@
+c:\users\mfard\onedrive\documents\visual studio 2012\Projects\biodata\biodata\bin\Debug\biodata.exe.config
+c:\users\mfard\onedrive\documents\visual studio 2012\Projects\biodata\biodata\bin\Debug\biodata.exe
+c:\users\mfard\onedrive\documents\visual studio 2012\Projects\biodata\biodata\bin\Debug\biodata.pdb
+c:\users\mfard\onedrive\documents\visual studio 2012\Projects\biodata\biodata\bin\Debug\biodata.xml
+c:\users\mfard\onedrive\documents\visual studio 2012\Projects\biodata\biodata\obj\Debug\biodata.Form1.resources
+c:\users\mfard\onedrive\documents\visual studio 2012\Projects\biodata\biodata\obj\Debug\biodata.Resources.resources
+c:\users\mfard\onedrive\documents\visual studio 2012\Projects\biodata\biodata\obj\Debug\biodata.vbproj.GenerateResource.Cache
+c:\users\mfard\onedrive\documents\visual studio 2012\Projects\biodata\biodata\obj\Debug\biodata.exe
+c:\users\mfard\onedrive\documents\visual studio 2012\Projects\biodata\biodata\obj\Debug\biodata.xml
+c:\users\mfard\onedrive\documents\visual studio 2012\Projects\biodata\biodata\obj\Debug\biodata.pdb
